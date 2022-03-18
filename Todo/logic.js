@@ -1,12 +1,3 @@
-// const course = document.getElementById("course");
-// console.log(course);
-// const button = document.getElementById("button");
-// const data = document.getElementById("data");
-
-// function addCourse() {
-//   data.innerHTML = [course.value];
-// }
-
 // button.addEventListener("click", addCourse);
 // get sum of even and odd numbers  in an array
 // const numList = [1, 3, 55, 22, 44];
