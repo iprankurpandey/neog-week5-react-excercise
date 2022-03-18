@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#name,
+#age {
+  border: 3px solid red;
+  margin: 0.5rem;
+}
+
+#button {
+  background-color: orange;
+  color: white;
+  border: 2px solid yellow;
+  width: 4rem;
+  height: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.container {
+  height: 15rem;
+  width: 15rem;
+  border: 2px solid black;
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
